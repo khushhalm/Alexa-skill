@@ -76,4 +76,7 @@ khushhal000maheshwari@gmail.com
 Last Edited on 30/11/2017
 
 Skills
-Scoreboard
+Sticky Notes
+
+#Alexa-skill Terms of Use
+Terms of use for this skill is goverened by the following:
