@@ -78,5 +78,5 @@ Last Edited on 30/11/2017
 Skills
 Sticky Notes
 
-#Alexa-skill Terms of Use
+# Alexa-skill Terms of Use
 Terms of use for this skill is goverened by the following:
