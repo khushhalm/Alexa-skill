@@ -1,7 +1,7 @@
-# Alexa-skill Privacy Policy
+# Alexa-skill (Sticky Notes) Privacy Policy
 Privacy Policy for Alexa Skill
  
-This privacy policy governs your use of the software skills for Amazon Alexa and other similar platforms created by Khushhal Maheshwari ("khushhalm", "we", "us").
+This privacy policy governs your use of the software skills for Amazon Alexa and other similar platforms created by Khushhal Maheshwari ("khushhalm", "we", "us", "Sticky Notes").
 
  
 ## User Provided Information
@@ -74,7 +74,7 @@ If there are any questions regarding this privacy policy, you may contact us usi
 Last Edited on 29/10/2018
 
 
-# Alexa-skill Terms of Use
+# Alexa-skill (Sticky Notes) Terms of Use
 
 This agreement is between you and The Developer Khushhal (in this agreement, “Developer”, “Us” or “We”) and governs your use of the Alexa Skill made by Khushhal Maheshwari (khushhalm) on Amazon’s Alexa service (“Alexa”) on any Alexa-enabled device (the “Skill”). This agreement applies in addition to any other policy contract or agreement that you may have with Us or which applies to you. It does not replace any other benefit contract or agreement you may have with Us or which applies to you.
 
